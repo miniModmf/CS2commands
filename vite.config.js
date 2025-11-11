@@ -5,3 +5,4 @@ export default defineConfig({
   base: '/CS2commands/',
   plugins: [react()]
 })
+
